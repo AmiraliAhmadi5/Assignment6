@@ -1,0 +1,29 @@
+#back{
+    margin-left: 450px;
+    margin-top: 200px;
+    text-align: center;
+}
+#mor{
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    rotate: 45;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 268px;
+    left: 470px;
+}
+.dai{
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    border-radius: 100%;
+}
+#mapleft{
+    position: absolute;
+    left: 400px;
+}
+#mapright{
+    position: absolute;
+    left: 540px;
+}

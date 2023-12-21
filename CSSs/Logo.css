@@ -1,0 +1,21 @@
+div{
+    position: absolute;
+    margin-top: 250px;
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-width: 40px;
+    border-color: khaki;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+body #left{
+    left: 300px;
+    border-top-left-radius: 100%;
+    transform: rotate(45deg);
+}
+body #right{
+    left: 590px;
+    border-top-right-radius: 100%;
+    transform: rotate(-45deg);
+}
