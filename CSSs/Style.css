@@ -36,3 +36,22 @@ ul li .dark:hover{
     border-radius: 10px;
     border-style: none;
 }
+#submenu li .sub{
+    display: none;
+    margin-top: 20px;
+    padding-right: -80px;
+    margin-bottom: 0px;
+    margin-left: -43px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    border-radius: 5px;
+}
+#asli li:hover .sub{
+    display: block;
+}
+#submenu li a:hover{
+    border-radius: 20px;
+    border-color: deepskyblue;
+    color: blue;
+}
